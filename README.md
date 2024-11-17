@@ -44,16 +44,22 @@ python DIP_Project.py
 ```
 
 ### Outputs:
-This is our final output image:
-![image][https://github.com/Digital-Image-Processing-PES-ECE/Ancient-Manuscript-Text-Recovery/blob/main/outputs/Combined_Enhanced_Text.png]
+This is our final output images:
+Combined Enhanced text:
 
-All outputs are automatically saved as PNG files
+![image](https://github.com/Digital-Image-Processing-PES-ECE/Ancient-Manuscript-Text-Recovery/blob/main/outputs/Combined_Enhanced_Text.png)
+
+All outputs are automatically saved as PNG files in outputs folder
 
 ### References:
 [1] Rafael C. Gonzalez and Richard Eugene Woods (2018) Digital Image Processing, Pearson, 4th Edition
+
 [2] Robert Fisher, Simon Perkins, Ashley Walker, Erik Wolfart (2004) The Hypermedia Image Processing Reference, The University of Edinburgh found at https://homepages.inf.ed.ac.uk/rbf/HIPR2/
+
 [3] Test images from [] found at 
+
 [4] Image Processing (imgproc module), Open Source Computer Vision (OpenCV) Documentation, found at https://docs.opencv.org/4.x/d7/da8/tutorial_table_of_content_imgproc.html
+
 [5] Morphology Functions, PlantCV Documentation, found at https://plantcv.readthedocs.io
    
 ### Limitations and Future Work:
