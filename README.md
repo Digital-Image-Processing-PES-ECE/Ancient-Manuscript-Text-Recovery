@@ -47,7 +47,7 @@ python DIP_Project.py
 This is our final output images:
 Combined Enhanced text:
 
-![image](https://github.com/Digital-Image-Processing-PES-ECE/Ancient-Manuscript-Text-Recovery/blob/main/outputs/processed_image.jpg)
+![image]((https://github.com/Digital-Image-Processing-PES-ECE/Ancient-Manuscript-Text-Recovery/blob/main/outputs/Combined_Enhanced_Text.png))
 
 All outputs are automatically saved as PNG files in outputs folder
 
